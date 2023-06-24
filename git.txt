@@ -1,0 +1,16 @@
+
+
+// Git init
+// Git Remote
+
+// Unica Vez
+//git config --global user.name "John Doe"
+//git config --global user.email johndoe@example.com
+
+//git add *.txt 
+//git add git.txt 
+//git add .
+
+
+// git commit -m "Mi primer proyecto completo"
+//git push origin master
